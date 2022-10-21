@@ -1,8 +1,8 @@
 ### Web-Push notifications using VAPID in Angular 14
 
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Important details] (#important-details)
+* [General info] 
+* [Technologies] 
+* [Important details]
 
 ## General info
 
